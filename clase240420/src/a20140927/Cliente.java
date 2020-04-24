@@ -11,5 +11,6 @@ package a20140927;
  */
 public class Cliente {
     private int id;
+    private String nombre;
     
 }
