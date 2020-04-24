@@ -7,8 +7,11 @@ package clase240420;
 
 /**
  *
- * @author migue
+ * @author Anthony
  */
-public class a20171051 {
+public class c20170657 {
+    private int _id;
+    private String nombre;
+    
     
 }
