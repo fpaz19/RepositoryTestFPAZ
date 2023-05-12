@@ -6,6 +6,11 @@ public class Clase230420 {
         int a = 10 + 20;
         int b = 50 + 10;
         System.out.println(a + b);
+
         int z;
+        int c;
+        int d;
+        int e;
+
     }
 }
