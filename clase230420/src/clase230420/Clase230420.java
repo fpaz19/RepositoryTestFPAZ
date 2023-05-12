@@ -11,6 +11,7 @@ public class Clase230420 {
         int c;
         int d;
         int e;
-
+        int m = 9 + 1;
+        System.out.println("Hola mundo cruel");
     }
 }
